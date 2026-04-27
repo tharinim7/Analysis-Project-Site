@@ -20,12 +20,12 @@
 
 title: COMP110 Analysis Project for Continuous improvement
 email: tharinim@unc.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Medha and Tharini's project site for COMP110! We are excited to shared with you the results and analysis of our project, and our recommendations for future improvement. We hope you find our project informative, and look forward to hearing your thoughts and questions! Thank you for visiting our site!
 baseurl: "/Analysis-Project-Site" # the subpath of your site, e.g. /blog
 url: "https://tharinim7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  tharinim7
 
 # Build settings
 # Build settings
