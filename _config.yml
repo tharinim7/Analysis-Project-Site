@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP110 Project Site for Continuous Improvement
-email: tharinim@unc.edu
+title: COMP110 Analysis Project for Continuous improvement
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Medha and Tharini's project site for COMP110! We are excited to shared with you the results and analysis of our project, and our recommendations for future improvement. We hope you find our project informative, and look forward to hearing your thoughts and questions. Enjoy, and thank you for visiting our site!
+  Welcome to Medha and Tharini's project site for COMP110! We are excited to shared with you the results and analysis of our project, and our recommendations for future improvement. We hope you find our project informative, and look forward to hearing your thoughts and questions! Thank you for visiting our site!
 baseurl: "/Analysis-Project-Site" # the subpath of your site, e.g. /blog
 url: "https://tharinim7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
