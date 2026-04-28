@@ -62,9 +62,7 @@ Overall, through the analyses that were conducted in the form of these graphs, t
 
 Graph 2 offers the clearest support of the idea that students rated the rated the lesson slide videos as effective, with higher effectiveness scores receiving significantly more responses than lower ones. This suggests that students do find value in the ls materials as a study resource, which lends indirect support to the idea that keeping these resources updated would benefit learning outcomes.
 
-However, Graphs 1 and 3 complicate the analysis because the positive correlation between difficulty rating and ls_effectiveness scores could mean that students who struggle more with the course lean more heavily on the ls videos, but it could equally suggest that heavier reliance on supplementary materials is a symptom of confusion rather than a driver of understanding. The wide range of effectiveness scores at lower difficulty ratings makes it difficult to draw a confident conclusion. 
-
-Graph 3, while visually suggestive of a difference in perceived difficulty between instructors, cannot support a strong conclusion without standardizing for class size. Without percentage-based comparisons, raw counts can be misleading.
+However, Graphs 1 and 3 complicate the analysis because the positive correlation between difficulty rating and ls_effectiveness scores could mean that students who struggle more with the course lean more heavily on the ls videos, but it could equally suggest that heavier reliance on supplementary materials is a symptom of confusion rather than a driver of understanding. The wide range of effectiveness scores at lower difficulty ratings makes it difficult to draw a confident conclusion. Graph 3, while visually suggestive of a difference in perceived difficulty between instructors, cannot support a strong conclusion without standardizing for class size. Without percentage-based comparisons, raw counts can be misleading.
 
 Therefore, there is preliminary evidence that suggests that the ls videos are helpful and constructive to the students in COMP110. However, further analyses and explorations are necessary to come to conclusive results. 
 
@@ -74,8 +72,4 @@ Therefore, there is preliminary evidence that suggests that the ls videos are he
 
 Future improvements to come to more conclusive results include collecting more data. Specifically, a more controlled comparison such as tracking quiz or exam scores for students who used ls videos and students who did not. Additionally, surveying students on how they use the ls materials (active note-taking or passive review) could help isolate whether it is the content itself that is driving the students' outcomes or wether it is their usage patterns. 
 
-In terms of potential costs and trade-offs, the primary stakeholders impacted by the proposed change would be the instructors and students themselves. 
-
-Continuously updating slides and lesson documents after each class session requires significant additional time and effort, particularly for a course like COMP110 where memory diagrams and code walkthroughs are detailed and labor-intensive to produce.
-
-The students however would most likely benefit from these changes in the usage of ls videos and updated review materials, and this can be solidifed through more thorough future analyses. 
+In terms of potential costs and trade-offs, the primary stakeholders impacted by the proposed change would be the instructors and students themselves. Continuously updating slides and lesson documents after each class session requires significant additional time and effort, particularly for a course like COMP110 where memory diagrams and code walkthroughs are detailed and labor-intensive to produce. The students however would most likely benefit from these changes in the usage of ls videos and updated review materials, and this can be solidifed through more thorough future analyses. 
