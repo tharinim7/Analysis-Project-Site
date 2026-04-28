@@ -12,9 +12,9 @@ Welcome to Medha and Tharini's project site for COMP110. We are excited to share
 ## Project Overview
 
 This project explores survey data from students across all the COMP110 sections during the Spring 2026 semester. Our initial explorations ideas were:
-"""1. Comparing the results across the quizz scores of multiple classes and sections."""
-"""2. Understanding the effectioveness of updated slides/content from classes in studying efficiency.""" 
-"""3. Determining whether releasing practice for quizzes earlier would improve scores."""
+1. Comparing the results across the quizz scores of multiple classes and sections.
+2. Understanding the effectioveness of updated slides/content from classes in studying efficiency.
+3. Determining whether releasing practice for quizzes earlier would improve scores.
 
 Based on the data available from the survey, we determined that the idea we would have the most data to support would be: "The instructors should continuously update slides/documents from classe with the covered materials because it will help with revising and better understanding for students."
 
@@ -23,22 +23,34 @@ Understanding and exploring the idea would provide important insights into the C
 The data sets we used for this analysis were:
 1. ls_effectiveness
 2. difficulty 
+3. alyssa vs izzie
 
 Below, we will evaluate the results of the subsequent analysis. 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 ---
 
-<img src="static/imgs/graph1.png" alt="Difficulty vs effectiveness of ls. "  width="500"/>
+<img src="static/imgs/graph1.png" alt="Graph 1: Difficulty vs effectiveness of ls. "  width="500"/>
+
+
+This graph looks at the relationship between the difficulty levels that students rated COMP110 on a scale of 1-7 against the effectiveness score of the ls vidoes. When analyzing this relationship, however, it is difficult to come to a strong conclusion. This is because there is a relatively strong positive correlation with an increasing difficulty rating with an increasing ls-effective score. This suggests that the course is correlated with more difficulty as the lesson videos are increasingly used. However, there is also a larger range of effectiveness scores with a lower difficulty, overall making a strong conclusion difficult based on this graph. 
 
 ---
 
-<img src="static/imgs/graph2.png" alt="Counts of effectiveness scores of ls."  width="500"/>
+<img src="static/imgs/graph2.png" alt="Graph 2: Counts of effectiveness scores of ls."  width="500"/>
+
+
+This graph looks at the count of people for each score rating of the ls_effectivness. There is, however, a trend showing that a higher ranking of ls effectiveness has a higher number of people voting for it in the survey. The number of people that find it effective (closer to score of 7) is significanrtly higher than the amount of people that dont't (closer to score of 1), meaning that in general, it can be concluded that the ls is considered effective.
 
 ---
 
-<img src="static/imgs/graph3.png" alt="Difficulty score counts between sections 'Alyssa' and 'Izzie'."  width="500"/>
+<img src="static/imgs/graph3.png" alt="Graph 3: Difficulty score counts between sections 'Alyssa' and 'Izzie'."  width="500"/>
+
+
+This graph looks at the difficulty scores of students with one of the two instructors. At first glance, it can be determined that more people ranking a higher amount of difficulty are correlated with Izzie's classes. However, it is important to note that these are just the raw counts of the ratings. By themselves, they cannot be used to come to a strong conclusion because the counts (number of students in each of their classes) is inherently different. The graph would have more value if there was a measure of percentage of student who ranked it a certain score, allowing for a more standardized and relative to the context type of conclusion.
 
 ---
-## This is a small header
+## Conclusions
 
-This is basic paragraph text.
+Overall, through the analyses that were conducted in the form of these graphs, the data provides some support for the idea that continuously updated lesson slides and materials poitively impact students learning in COMP110, but the the results still remain largely inconclusive. 
+
+Graph 2 offers the clearest support of the idea that 
